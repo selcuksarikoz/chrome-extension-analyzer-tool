@@ -30,3 +30,4 @@ htmlcov/
 *~
 .env
 .env.local
+extensions/
